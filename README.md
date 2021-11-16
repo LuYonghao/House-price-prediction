@@ -52,12 +52,12 @@ as of 2021.11.15, ranking 251/27633 on leaderBoard (top 1%)
 文件列表(file list):<br/>
   -house-price-prediction.ipynb (全部代码，步骤，包括comment)<br/>
   -House Data<br/>
-        &nbsp;-results_files (储存资料图片）<br/>
-        &nbsp;-img（储存其他图片）<br/>
-        &nbsp;data_description.txt (数据类型的描述）<br/>
-        &nbsp;submission.csv(最后需要提交的结果)<br/>
-        &nbsp;test.csv（测试数据，用来生成结果）<br/>
-        &nbsp;train.csv（训练用数据）<br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-results_files (储存资料图片）<br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-img（储存其他图片）<br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-data_description.txt (数据类型的描述）<br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-submission.csv(最后需要提交的结果)<br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-test.csv（测试数据，用来生成结果）<br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-train.csv（训练用数据）<br/>
          
 
 
