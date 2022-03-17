@@ -8,7 +8,8 @@ url: https://www.kaggle.com/c/home-data-for-ml-course/data</br>
 Precedure:
   - Data transform
   - Feature engineering
-  - Modeling
+  - Modeling</br>
+
 as of 2022.3.1, ranking 109/35370(top 1%) and 105/4394(top 3%) on leaderBoard
   
 <br/>
